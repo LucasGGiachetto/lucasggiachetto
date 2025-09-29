@@ -6,13 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGGiachetto&theme=vue-dark&hide_border=false&layout=compact" height="160" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGGiachetto&theme=vue-dark&hide_border=false&layout=compact" height="150" />
+ <img src="https://i.gifer.com/WU7Q.gif" height="150"/>
 </p>
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasggiachetto/lucasggiachetto/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasggiachetto/lucasggiachetto/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasggiachetto/lucasggiachetto/output/pacman-contribution-graph.svg">
 </picture>
-
-
