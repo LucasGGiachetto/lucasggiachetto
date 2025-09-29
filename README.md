@@ -1,10 +1,12 @@
 ## What's up! 👋
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LucasGGiachetto&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGGiachetto&theme=vue-dark&hide_border=false" />
-</div>
+<!-- Stats + Streak lado a lado -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasGGiachetto&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGGiachetto&theme=vue-dark&hide_border=false" height="180" />
+</p>
 
-<div align="center">
-  <img height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGGiachetto&theme=vue-dark&hide_border=false&layout=compact" />
-</div>
+<!-- Top Languages embaixo -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGGiachetto&theme=vue-dark&hide_border=false&layout=compact" height="180" />
+</p>
