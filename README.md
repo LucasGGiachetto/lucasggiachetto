@@ -8,5 +8,5 @@
 
 <!-- Top Languages embaixo -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGGiachetto&theme=vue-dark&hide_border=false&layout=compact" height="150" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGGiachetto&theme=vue-dark&hide_border=false&layout=compact" height="150" width="180" />
 </p>
