@@ -2,15 +2,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasGGiachetto&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasGGiachetto&theme=vue-dark&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGGiachetto&theme=vue-dark&hide_border=false&layout=compact" height="160" />
 </p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGGiachetto&theme=vue-dark&hide_border=false&layout=compact" height="150" />
- <img src="https://i.gifer.com/WU7Q.gif" height="150"/>
-</p>
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasggiachetto/lucasggiachetto/output/pacman-contribution-graph-dark.svg">
