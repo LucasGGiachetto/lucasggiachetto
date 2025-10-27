@@ -5,6 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGGiachetto&theme=vue-dark&hide_border=false&layout=compact" height="160" />
 </p>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasggiachetto/lucasggiachetto/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasggiachetto/lucasggiachetto/output/pacman-contribution-graph.svg">
